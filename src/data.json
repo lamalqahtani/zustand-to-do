@@ -1,0 +1,16 @@
+{
+    "tasks":[
+        {
+            "title": "do my homework",
+            "status": true
+        },
+        {
+            "title": "read a book",
+            "status": false
+        },
+        {
+            "title": "program a web app",
+            "status": true
+        }
+    ]
+}
